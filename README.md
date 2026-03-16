@@ -18,7 +18,7 @@ This project implements a `StudentManager` React component that:
 ```bash
 npm install
 npm run dev
-```
+```......
 
 ## Build
 
